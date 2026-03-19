@@ -32,7 +32,6 @@ themeToggle.addEventListener("click", () => {
 // Animaciones al hacer Scroll
 // Secciones
 const sections = document.querySelectorAll("section");
-console.log("Sections: ", sections);
 
 // Opciones
 const observerOptions = {
